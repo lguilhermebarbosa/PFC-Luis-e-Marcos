@@ -2,7 +2,7 @@
  * 1 (HSPI): CE=16, CSN=15, SCK=14, MOSI=13, MISO=12
  * 2 (VSPI): CE=22, CSN=21, SCK=18, MOSI=23, MISO=19
  * OLED (HW I2C):  SDA=4, SCL=5
- * BOTÃO:          GPIO 0 (Boot)
+ * BOOT:           GPIO 0
  * LED:            GPIO 2
 */
 
